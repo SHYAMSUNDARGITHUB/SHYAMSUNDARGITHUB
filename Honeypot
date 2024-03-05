@@ -1,0 +1,9 @@
+sudo -s
+cd Desktop
+git clone https://github.com/H4CK3RT3CH /pentbox-1.8.git
+cd pentbox-1.8
+Is
+./pentbox.rb
+2
+3
+Fast auto configuration
