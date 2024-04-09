@@ -1,0 +1,4 @@
+apt-get -y install php openssh git wget
+https://github.com/techchipnet/CamPhish 
+cd CamPhish
+bash camphish.sh
